@@ -4,7 +4,7 @@
 This is my personal portfolio website showcasing my skills, projects, certifications, and contact details. Built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🔗 Live Site
-[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio) *(update this link after publishing)*
+[https://prakharpandey.github.io/portfolio](https://yourusername.github.io/portfolio) *(update this link after publishing)*
 
 ---
 
